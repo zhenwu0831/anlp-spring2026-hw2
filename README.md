@@ -99,7 +99,7 @@ Read our [model and data policy](#model-and-data-policy) for this assignment.
 - **Domain Relevance**: Training examples should be similar in nature to the evaluation data (i.e., questions about Pittsburgh and CMU). Use the knowledge resources listed above when curating examples. 
 - **Diversity**: Your training data should cover a wide range of questions Pittsburgh and CMU.
 - **Size**: The size of your training data should be sufficient to support your training objective (e.g., fine-tuning or prompt selection). There is no minimum required size. 
-<!-- - If you want some guidelines about this, see the lecture on experimental design and human annotation.[^2].  -->
+- If you want some guidelines about this, see the lecture on experimental design and evaluation.[^2]. 
 - **Quality**: Annotated examples should be accurate.
 
 To help you get started, here are some example questions:
@@ -313,7 +313,7 @@ This assignment was based on the Spring 2024 version of this assignment by Graha
 
 [^1]: See the [assignment policies]([http://www.phontron.com/class/anlp2024/assignments/#assignment-policies](https://cmu-l3.github.io/anlp-spring2026/#assignments)) for this class, including submission information, late day policy and more.
 
-[^2]: See the previous [lecture notes](http://www.phontron.com/class/anlp2024/lectures/#experimental-design-and-human-annotation-feb-13) on experimental design and human annotation for guidance on annotation, size of test/train data, and general experimental design. This lecture will also take place on the day of the release of this assignment, and you can refer to those [notes](https://cmu-l3.github.io/anlp-spring2026/#schedule) too.
+[^2]: See the previous lecture notes on [experimental design](https://cmu-l3.github.io/anlp-fall2025/static_files/anlp-f2025-14-experimentation.pdf) and [evaluation](https://cmu-l3.github.io/anlp-fall2025/static_files/anlp-f2025-13-evaluation.pdf), size of test/train data, and general experimental design. This lecture will also take place on the day of the release of this assignment, and you can refer to those [notes](https://cmu-l3.github.io/anlp-spring2026/#schedule) too.
 
 [^3]: Create a private GitHub repo and give access to the TAs in charge of this assignment by the deadline. See piazza announcement post for our GitHub usernames.
 
