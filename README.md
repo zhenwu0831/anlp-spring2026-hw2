@@ -158,7 +158,7 @@ For this leaderboard:
 - The reference answers will not be released.
 - You are limited to **at most 10 submissions** in total.
 - You are only allowed to submit **one answer per question**.
-- If you don't want your andrewid displayed, you can replace it with the nickname we assigned to you.
+- If you don't want your andrewid displayed, you can replace it with the nickname we assigned to you through email titled "Advanced NLP Assignment 2 Leaderboard Nicknames".
 
 The leaderboard is intended solely as a development and diagnostic tool. Scores on the leaderboard will **not** be used directly for grading.
 
