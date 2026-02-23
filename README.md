@@ -44,7 +44,7 @@ For your test set and the RAG systems, you will first need to compile a knowledg
 - [Encyclopedia Brittanica page](https://www.britannica.com/place/Pittsburgh)
 - [Visit Pittsburgh webpage](https://www.visitpittsburgh.com): This website also contains subpages that would be useful for other topics (see below), like events, sports, music, food, etc.
 - City of Pittsburgh [Tax Regulations](https://pittsburghpa.gov/finance/tax-forms): See the links under the "Regulations" column of the table
-- City of Pittsburgh [2025 Operating Budget]([https://apps.pittsburghpa.gov/redtail/images/23255_2024_Operating_Budget.pdf](https://www.pittsburghpa.gov/files/assets/city/v/4/omb/documents/operating-budgets/2025-operating-budget.pdf))
+- City of Pittsburgh [2026 Operating Budget](https://www.pittsburghpa.gov/City-Government/Finance-Budget/Management-Budget/Budgets-and-Reports/Operating-Budgets)
 - [About CMU & CMU History](https://www.cmu.edu/about/)
 
 **Events in Pittsburgh and CMU** (We will only ask about annual/recurring events and events happening after March 19.)
