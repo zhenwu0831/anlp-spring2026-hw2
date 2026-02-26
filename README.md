@@ -224,7 +224,7 @@ Your submission should be a zip file with the following structure (assuming the 
 ```
 ANDREWID/
 ├── report.pdf
-├── github_url.txt
+├── github.txt
 ├── data/
 │   ├── train (optional)/
 │   │   ├── questions.txt
