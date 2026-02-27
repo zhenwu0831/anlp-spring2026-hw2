@@ -185,7 +185,7 @@ This test set will be curated by the course staff and will serve as the **final 
 ```json
 {
     "1": "Answer 1",
-    "2": "Answer 2; Answer 3",
+    "2": "Answer 2",
     ...
 }
 ```
